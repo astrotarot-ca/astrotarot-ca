@@ -25,9 +25,12 @@
   },
   "homepage": "https://github.com/astrotarot-ca/astrotarot-ca#readme",
   "devDependencies": {
+    "backbone": "^1.4.0",
     "chai": "^4.3.3",
     "gulp": "^4.0.2",
+    "jquery": "^3.6.0",
     "mocha": "^8.3.1",
-    "sass": "^1.32.8"
+    "sass": "^1.32.8",
+    "underscore": "^1.12.0"
   }
 }
