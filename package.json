@@ -26,6 +26,7 @@
   "homepage": "https://github.com/astrotarot-ca/astrotarot-ca#readme",
   "devDependencies": {
     "backbone": "^1.4.0",
+    "browserify": "^17.0.0",
     "chai": "^4.3.3",
     "gulp": "^4.0.2",
     "jquery": "^3.6.0",
