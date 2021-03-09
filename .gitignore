@@ -1,2 +1,7 @@
-node_modules
-package-lock.json
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+__jekyll_ref
+Gemfile.lock
