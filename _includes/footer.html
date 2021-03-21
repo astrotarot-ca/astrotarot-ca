@@ -5,29 +5,29 @@
         <small class="d-block mb-3 text-muted">&copy; 2019-{{ site.time | date: '%Y' }}</small>
         </div>
         <div class="col-6 col-md">
-        <h5>Tarot</h5>
+        <h5>{{ site.data.translations['page_tarot_title'][page.lang] }}</h5>
         <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="tarot/rws/main.html">Rider-Waite-Smith Tarot</a></li>
-            <li><a class="text-muted" href="tarot/cbdtm/main.html">CBD Tarot de Marseille</a></li>
+            <li><a class="text-muted" href="tarot/rws/main.html">{{ site.data.translations['deck_rws_name'][page.lang] }}</a></li>
+            <li><a class="text-muted" href="tarot/cbdtm/main.html">{{ site.data.translations['deck_tm_name'][page.lang] }}</a></li>
         </ul>
         </div>
         <div class="col-6 col-md">
-        <h5>Oracle</h5>
+        <h5>{{ site.data.translations['page_oracle_title'][page.lang] }}</h5>
         <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="oracle/zo/main.html">Zodiac Oracle</a></li>
-            <li><a class="text-muted" href="oracle/go/main.html">Playing Cards Oracle</a></li>
+            <li><a class="text-muted" href="oracle/zo/main.html">{{ site.data.translations['deck_ao_name'][page.lang] }}</a></li>
+            <li><a class="text-muted" href="oracle/go/main.html">{{ site.data.translations['deck_pc_name'][page.lang] }}</a></li>
         </ul>
         </div>
         <div class="col-6 col-md">
-            <h5>Ou&iuml;ja</h5>
+            <h5>{{ site.data.translations['page_ouija_title'][page.lang] }}</h5>
             <ul class="list-unstyled text-small">
-            <li><a class="text-muted" href="ouija/gb/main.html">Greek Board</a></li>
-            <li><a class="text-muted" href="ouija/hb/main.html">Hebrew Board</a></li>
-            <li><a class="text-muted" href="ouija/rb/main.html">Russian Board</a></li>
+            <li><a class="text-muted" href="ouija/gb/main.html">{{ site.data.translations['deck_ogr_name'][page.lang] }}</a></li>
+            <li><a class="text-muted" href="ouija/hb/main.html">{{ site.data.translations['deck_ohr_name'][page.lang] }}</a></li>
+            <li><a class="text-muted" href="ouija/rb/main.html">{{ site.data.translations['deck_oru_name'][page.lang] }}</a></li>
             </ul>
         </div>
         <div class="col-6 col-md">
-        <h5>About</h5>
+        <h5>{{ site.data.translations['group_about_title'][page.lang] }}</h5>
         <ul class="list-unstyled text-small">
             <li><a class="text-muted" href="{{ site.data.translations['creator_link_name'][page.lang] }}.html">{{ site.data.translations['creator_link_title'][page.lang] }}</a></li>
             <li><a class="text-muted" href="{{ site.data.translations['open_source_link_name'][page.lang] }}.html">{{ site.data.translations['open_source_link_title'][page.lang] }}</a></li>

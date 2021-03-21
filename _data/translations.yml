@@ -34,3 +34,39 @@ privacy_link_title:
 privacy_link_name:
   en: "privacy"
   fr: "vie-privee"
+deck_ao_name:
+  en: "Zodiac Oracle"
+  fr: "Oracle du Zodiac"
+deck_ohr_name:
+  en: "Hebrew Ou&iuml;ja"
+  fr: "Ou&iuml;ja Hebreu"
+deck_ogr_name:
+  en: "Greek Ou&iuml;ja"
+  fr: "Ou&iuml;ja Grecque"
+deck_oru_name:
+  en: "Russian Ou&iuml;ja"
+  fr: "Ou&iuml;ja Russe"
+deck_pc_name:
+  en: "Playing Cards Oracle"
+  fr: "Oracle de jeu de cartes"
+deck_rws_name:
+  en: "Rider-Waite-Smith Tarot"
+  fr: "Tarot Rider-Waite-Smith"
+deck_tm_name:
+  en: "CBD Tarot de Marseille"
+  fr: "CBD Tarot de Marseille"
+page_oracle_title:
+  en: "Oracle Decks"
+  fr: "Jeux d'oracle"
+page_tarot_title:
+  en: "Tarot Decks"
+  fr: "Jeux de tarot"
+page_ouija_title:
+  en: "Ou&iuml;ja Boards"
+  fr: "Jeux de ou&iuml;ja"
+page_home_title:
+  en: "Home"
+  fr: "Accueil"
+group_about_title:
+  en: "About"
+  fr: "&Agrave; propos"
