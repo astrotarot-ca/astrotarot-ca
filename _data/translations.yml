@@ -1,0 +1,36 @@
+creator:
+  en: "Serafim Dos Santos is the creator of <a href=\"https://github.com/astrotarot-ca/itheobot\">iTheobot</a> and he is the maintainer of <a href=\"https://astrotarot.ca\">https://astrotarot.ca</a>. You can contact him through the <a href=\"https://github.com/astrotarot-ca/itheobot/issues\">issues</a> section of GitHub's iTheobot repository. iTheobot uses some JavaScript libraries that are included with their own licences. iTheobot makes extensive usage of some images that are not the creator's creation but are either of Public Domain or are Creative Common content."
+  fr: "Serafim Dos Santos est le cr&eacute;ateur de <a href=\"https://github.com/astrotarot-ca/itheobot\">iTheobot</a> et est le mainteneur de <a href=\"https://astrotarot.ca\">https://astrotarot.ca</a>. Vous pouvez le contacter <a href=\"https://github.com/astrotarot-ca/itheobot/issues\">sur GitHub</a>. iTheobot utilise des librairies accompagn&eacute;es de leurs propres licences. iTheobot utilise des images non-propri&eacute;taires au projet, mais qui sont du domaine publique ou sous licences Creative Commons."
+creator_link_title:
+  en: "Creator"
+  fr: "Cr&eacute;ateur"
+creator_link_name:
+  en: "creator"
+  fr: "createur"
+license:
+  en: "The open source web application <a href=\"https://github.com/esorobot-online/itheobot\">iTheobot</a> of the AstroTarot.ca project is managed by the MIT Licence. The following is the content of such license."
+  fr: "L'application web &agrave; source ouverte <a href=\"https://github.com/esorobot-online/itheobot\">iTheobot</a> du projet AstroTarot.ca est r&eacute;gul&eacute;e par la MIT Licence. La licence en anglais suit ci-dessous."
+license_link_title:
+  en: "License"
+  fr: "Licence"
+license_link_name:
+  en: "license"
+  fr: "licence"
+open_source:
+  en: "AstroTarot.ca is a website with its web application hosted on <a href=\"https://github.com/astrotarot-ca/itheobot\">GitHub.com</a>. This project is Open Source, meaning it is free and open source to any one who can code with some web development languages. It is also managed by the <a href=\"/en/license.html\">MIT License</a>&mdash;one of the most liberated software licences that exist on Earth."
+  fr: "AstroTarot.ca est un site web h&eacute;berg&eacute; sur <a href=\"https://github.com/astrotarot-ca/itheobot\">GitHub.com</a>. C'est un projet &agrave; source ouverte pouvant &ecirc;tre modifi&eacute; librement et r&eacute;gul&eacute; par la <a href=\"/fr/licence.html\">MIT License</a>, l'une des licences les plus libres de la plan&egrave;te."
+open_source_link_title:
+  en: "Open Source"
+  fr: "Source ouverte"
+open_source_link_name:
+  en: "open-source"
+  fr: "source-ouverte"
+privacy:
+  en: "This website doesn't use any cookies!"
+  fr: "Ce site n'utilise aucun cookie!"
+privacy_link_title:
+  en: "Privacy"
+  fr: "Vie priv&eacute;e"
+privacy_link_name:
+  en: "privacy"
+  fr: "vie-privee"
