@@ -52,9 +52,18 @@ deck_pc_name:
 deck_rws_name:
   en: "Rider-Waite-Smith Tarot"
   fr: "Tarot Rider-Waite-Smith"
+deck_rws_intro:
+  en: "Used for the last 100 years, the <b class=\"font-weight-bolder font-italic\">Rider-Waite-Smith tarot deck</b> is the most popular deck of the english school of esoterism."
+  fr: "Utilis&eacute; les 100 derni&egrave;res ann&eacute;es, le <b class=\"font-weight-bolder font-italic\">jeu de tarot Rider-Waite-Smith</b> est le jeu de tarot le plus populaire de l'&eacute;cole d'&eacute;sot&eacute;risme Anglaise."
 deck_tm_name:
   en: "CBD Tarot de Marseille"
   fr: "CBD Tarot de Marseille"
+deck_tm_intro:
+  en: "Restored line by line from an historical deck, the <b class=\"font-weight-bolder font-italic\">CBD Tarot de Marseille deck</b> is a modern take to the original tarot deck."
+  fr: "Reproduit ligne par ligne d'une version historique originale, le <b class=\"font-weight-bolder font-italic\">jeu CBD Tarot de Marseille</b> est une version moderne du jeu de tarot originale Europ&eacute;en."
+game_inv:
+  en: "Go to deck"
+  fr: "Allez au jeu"
 page_oracle_title:
   en: "Oracle Decks"
   fr: "Jeux d'oracle"
