@@ -70,3 +70,51 @@ page_home_title:
 group_about_title:
   en: "About"
   fr: "&Agrave; propos"
+index_group_tarot_decks:
+  en: "Tarot Decks"
+  fr: "Jeux de tarot"
+index_group_tarot_deck_def:
+  en: "Here you find the most popular tarot decks for fortune reading or any other form of scenario revelation. Usually available in suites and arcana sections, you'll be able to draw cards within the available selections and place them in your favourite spread."
+  fr: "Vous trouverez dans cette section les jeux de tarot les plus populaires pour de la divination ou toute forme de r&eacute;v&eacute;lations sc&egrave;nique. Habituellement regroup&eacute;s en arcanes, vous pourrez tirer des cartes sous les sections disponibles et les placer dans votre &eacute;talement pr&eacute;f&eacute;r&eacute;"
+index_group_tarot_deck_inv:
+  en: "Pull cards from your favourite decks and place them in your favourite spreads for divination and fortune telling!"
+  fr: "Tirez des cartes de votre jeu pr&eacute;f&eacute;r&eacute; et placez-les dans votre s&eacute;quence favorite pour faire de la divination et de la voyance!"
+index_group_tarot_deck_button:
+  en: "Go to the tarot decks!"
+  fr: "Allez aux jeux de tarot!"
+index_group_oracle_game:
+  en: "Zodiac Oracle Deck"
+  fr: "Jeu d'oracle du Zodiac"
+index_group_oracle_game_def:
+  en: "Here you find the best zodiacal oracle deck! Split into Planets, Constellations and Houses, one pulls one card of each to read the fortune it presents in plain english."
+  fr: "Vous trouverez dans cette section le meilleur jeu d'oracle du Zodiac. S&eacute;par&eacute;s en Plan&egrave;tes, Constellations et Maisons; vous tirez une carte de chacune des piles pour avoir une r&eacute;v&eacute;lation en Fran&ccedil;ais."
+index_group_oracle_game_inv:
+  en: "Pull one planet card, one constellation card and one house card to reveal your astrological fortune!"
+  fr: "Tirez une carte plan&egrave;te, une carte constellation et un carte maison pour re&ccedil;voir une r&eacute;v&eacute;lation astrologique!"
+index_group_oracle_game_button:
+  en: "Go to the zodiac oracle deck!"
+  fr: "Allez au jeu d'oracle du Zodiac!"
+index_group_ouija_boards:
+  en: "Ou&iuml;ja Boards"
+  fr: "Jeux de Ou&iuml;ja"
+index_group_ouija_boards_def:
+  en: "Here you find the most popular alphabets to play ouija. The boards are available with only consonant letters so words can be approximatively created with the voyels being left at the discretion of the reader."
+  fr: "Dans cette section, vous trouverez quelques alphabets pour jouer au Ou&iuml;ja. Les jeux sont disponibles avec seulement des consonnes qui formeront des mots approximatifs dont le joueur int&eacute;gregra des voyelles imaginaires &agrave; sa guise pour en rirer un sens personnel."
+index_group_ouija_boards_inv:
+  en: "Pull consonant letters from your favourite board to create approximative words and have mystical answers to your questions!"
+  fr: "Tirez des consonnes de votre jeu pr&eacute;f&eacute;r&eacute; pour cr&eacute;er des mots approximatifs et avoir des r&eacute;ponses mystiques &agrave; vos questions!"
+index_group_ouija_boards_button:
+  en: "Go to the ouija boards!"
+  fr: "Allez aux jeux de Ou&iuml;ja!"
+index_group_cards_deck:
+  en: "Playing Cards Deck"
+  fr: "Jeu de cartes &agrave; jouer"
+index_group_cards_deck_def:
+  en: "Here you find the most popular table game in the world! Similar to the minor arcana of any tarot deck, you can use the deck for divination and fortune telling."
+  fr: "Vous trouverez dans cette section le jeu de cartes le plus populaire du monde! Similaire &agrave; l'arcane mineure du jeu de tarot, vous pouvez utiliser ce jeu pour en faire de la divination et de la claire voyance aussi."
+index_group_cards_deck_inv:
+  en: "Pull cards to fortell your future as you would with a tarot minor arcana!"
+  fr: "Tirez des cartes pour la voyance de votre futur comme vous le feriez avec un jeu d'arcane mineure!"
+index_group_cards_deck_button:
+  en: "Go to the playing cards deck!"
+  fr: "Allez au jeu de cartes &agrave; jouer!"
