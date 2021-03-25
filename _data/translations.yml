@@ -37,6 +37,9 @@ privacy_link_name:
 deck_ao_name:
   en: "Zodiac Oracle"
   fr: "Oracle du Zodiac"
+deck_ao_intro:
+  en: "Produced in house, the <b class=\"font-weight-bolder font-italic\">Zodiac Oracle deck</b> is a fresh new take on the zodiacal fortune telling. Pick one of each pile to get an answer for any question."
+  fr: "Produit par le cr&eacute;ateur du site, le <b class=\"font-weight-bolder font-italic\">jeu d'oracle du Zodiac</b> est une nouvelle fa&ccedil;on de faire de la voyance avec le zodiac. Tirez une carte de chaque pile virtuelle pour avoir une r&eacute;ponse &agrave; vos questions."
 deck_ohr_name:
   en: "Hebrew Ou&iuml;ja"
   fr: "Ou&iuml;ja Hebreu"
@@ -49,6 +52,9 @@ deck_oru_name:
 deck_pc_name:
   en: "Playing Cards Oracle"
   fr: "Oracle de jeu de cartes"
+deck_pc_intro:
+  en: "Popular in the western world, the <b class=\"font-weight-bolder font-italic\">French game cards</b> are being presented here for those who like to use them as a minor arcana only deck."
+  fr: "Populaire en Occident, le <b class=\"font-weight-bolder font-italic\">jeu de cartes Fran&ccedil;ais</b> est pr&eacute;sent&eacute; ici pour ceux et celles qui aime utiliser ce jeu comme arcane mineure seulement."
 deck_rws_name:
   en: "Rider-Waite-Smith Tarot"
   fr: "Tarot Rider-Waite-Smith"
@@ -103,6 +109,9 @@ index_group_oracle_game_inv:
 index_group_oracle_game_button:
   en: "Go to the zodiac oracle deck!"
   fr: "Allez au jeu d'oracle du Zodiac!"
+index_group_oracle_decks_def:
+  en: "Below you will find the most fun way to draw cards for fortune telling. Visit one of the decks to draw some cards from the virtual pile and spread them to your favourite layout."
+  fr: "Vous trouverez ci-dessous deux moyens amusants de tirer des cartes pour la voyance. Visitez un des deux jeux pour tirer des cartes de la pile virtuelle et les &eacute;taler selon vos dispositions pr&eacute;f&eacute;r&eacute;es."
 index_group_ouija_boards:
   en: "Ou&iuml;ja Boards"
   fr: "Jeux de Ou&iuml;ja"
