@@ -1,5 +1,12 @@
 <link rel="stylesheet" href="{{ "/assets/css/studio/all.css" | relative_url }}">
 
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="/{{ page.lang }}/index.html">{{ site.data.translations['page_home_title'][page.lang] }}</a></li>
+      <li class="breadcrumb-item"><a href="/{{ page.lang }}/studio/main.html">Studio</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    </ol>
+</nav>
 <div class="jumbotron">
     <h2 class="display-4">{{ site.data.translations['studio_ssq_minarc_spades'][page.lang] }}</h2>
     <img class="at_card minas" draggable="true" src="https://medium.astrotarot.ca/SSQ/w300px/SA.png" />
