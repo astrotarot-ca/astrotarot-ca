@@ -48,10 +48,10 @@ deck_ohe_intro:
   fr: "Les planches de ou&iuml;ja sur ce site sont inspir&eacute;es de l'H&eacute;breu. L'<b class=\"font-weight-bolder font-italic\">alphabet H&eacute;bra&iuml;que</b> est parfait pour les jeux de ou&iuml;ja. La planche de ou&iuml;ja H&eacute;bra&iuml;que peut aussi &ecirc;tre utilis&eacute;e pour &eacute;tudier la Cabale juive."
 deck_ogr_name:
   en: "Greek Ou&iuml;ja"
-  fr: "Ou&iuml;ja Grecque"
+  fr: "Ou&iuml;ja Grec"
 deck_ogr_intro:
   en: "The <b class=\"font-weight-bolder font-italic\">Greek Alphabet</b> is being presented here with only its consonants to ease the development of approximative words."
-  fr: "Vous retrouverez seulement les consonnes dans ce jeu de l'<b class=\"font-weight-bolder font-italic\">alphabet Grecque</b> pour faciliter l'apparition de mots approximatifs."
+  fr: "Vous retrouverez seulement les consonnes dans ce jeu de l'<b class=\"font-weight-bolder font-italic\">alphabet Grec</b> pour faciliter l'apparition de mots approximatifs."
 deck_oru_name:
   en: "Russian Ou&iuml;ja"
   fr: "Ou&iuml;ja Russe"
@@ -163,3 +163,63 @@ studio_ao_houses:
 studio_ao_aspects:
   en: "Aspects"
   fr: "Aspects"
+studio_rws_majarc:
+  en: "Major Arcana"
+  fr: "Arcane majeure"
+studio_rws_minarc_swords:
+  en: "Minor Arcana &mdash; Swords"
+  fr: "Arcane mineure &mdash; &Eacute;p&eacute;es"
+studio_rws_minarc_cups:
+  en: "Minor Arcana &mdash; Cups"
+  fr: "Arcane mineure &mdash; Coupes"
+studio_rws_minarc_wands:
+  en: "Minor Arcana &mdash; Wands"
+  fr: "Arcane mineure &mdash; B&acirc;tons"
+studio_rws_minarc_pentacles:
+  en: "Minor Arcana &mdash; Pentacles"
+  fr: "Arcane mineure &mdash; Deniers"
+studio_cbdtm_majarc:
+  en: "Major Arcana"
+  fr: "Arcane majeure"
+studio_cbdtm_minarc_epees:
+  en: "Minor Arcana &mdash; &Eacute;p&eacute;es"
+  fr: "Arcane mineure &mdash; &Eacute;p&eacute;es"
+studio_cbdtm_minarc_coupes:
+  en: "Minor Arcana &mdash; Coupes"
+  fr: "Arcane mineure &mdash; Coupes"
+studio_cbdtm_minarc_batons:
+  en: "Minor Arcana &mdash; B&acirc;tons"
+  fr: "Arcane mineure &mdash; B&acirc;tons"
+studio_cbdtm_minarc_deniers:
+  en: "Minor Arcana &mdash; Deniers"
+  fr: "Arcane mineure &mdash; Deniers"
+studio_ssq_name:
+  en: "Thoth Playing Cards (Neutral)"
+  fr: "Jeux de cartes Thoth (Neutre)"
+studio_ssq_minarc_spades:
+  en: "Minor Arcana &mdash; Spades (Swords)"
+  fr: "Arcane mineure &mdash; Piques (&Eacute;p&eacute;es)"
+studio_ssq_minarc_hearts:
+  en: "Minor Arcana &mdash; Hearts (Cups)"
+  fr: "Arcane mineure &mdash; Coeurs (Coupes)"
+studio_ssq_minarc_clubs:
+  en: "Minor Arcana &mdash; Clubs (Wands)"
+  fr: "Arcane mineure &mdash; Tr&egrave;fles (B&acirc;tons)"
+studio_ssq_minarc_diamonds:
+  en: "Minor Arcana &mdash; Diamonds (Pentacles)"
+  fr: "Arcane mineure &mdash; Carreaux (Deniers)"
+studio_ssq2_name:
+  en: "Thoth Playing Cards (Vulgar)"
+  fr: "Jeux de cartes Thoth (Vulgaire)"
+studio_ssq2_minarc_spades:
+  en: "Minor Arcana &mdash; Spades (Swords)"
+  fr: "Arcane mineure &mdash; Piques (&Eacute;p&eacute;es)"
+studio_ssq2_minarc_hearts:
+  en: "Minor Arcana &mdash; Hearts (Cups)"
+  fr: "Arcane mineure &mdash; Coeurs (Coupes)"
+studio_ssq2_minarc_clubs:
+  en: "Minor Arcana &mdash; Clubs (Wands)"
+  fr: "Arcane mineure &mdash; Tr&egrave;fles (B&acirc;tons)"
+studio_ssq2_minarc_diamonds:
+  en: "Minor Arcana &mdash; Diamonds (Pentacles)"
+  fr: "Arcane mineure &mdash; Carreaux (Deniers)"
