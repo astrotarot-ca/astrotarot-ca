@@ -97,7 +97,7 @@ function setTranslate(xPos, yPos, el) {
 function pullNextZoP(sGameId,sCardBackP,sImgAlt) {
   oNewImg = new Image();
   $(oNewImg).attr({
-      src: "../../assets/images/cards/"+sGameId+"/w300px/"+sCardBackP,
+      src: "https://medium.astrotarot.ca/"+sGameId+"/w300px/"+sCardBackP,
       alt: sImgAlt,
       class: "card img-fluid"
   });
@@ -108,7 +108,7 @@ function pullNextZoP(sGameId,sCardBackP,sImgAlt) {
 function pullNextZoC(sGameId,sCardBackC,sImgAlt) {
   oNewImg = new Image();
   $(oNewImg).attr({
-      src: "../../assets/images/cards/"+sGameId+"/w300px/"+sCardBackC,
+      src: "https://medium.astrotarot.ca/"+sGameId+"/w300px/"+sCardBackC,
       alt: sImgAlt,
       class: "card img-fluid"
   });
@@ -119,7 +119,7 @@ function pullNextZoC(sGameId,sCardBackC,sImgAlt) {
 function pullNextZoH(sGameId,sCardBackH,sImgAlt) {
   oNewImg = new Image();
   $(oNewImg).attr({
-      src: "../../assets/images/cards/"+sGameId+"/w300px/"+sCardBackH,
+      src: "https://medium.astrotarot.ca/"+sGameId+"/w300px/"+sCardBackH,
       alt: sImgAlt,
       class: "card img-fluid rounded"
   });
