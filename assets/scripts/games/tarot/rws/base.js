@@ -2,7 +2,7 @@
  *	Author: Serafim Junior Dos Santos Fagundes
 */
 iImgs = 78;         // number of cards in deck
-sCB = "1865.jpg";   // cardback id
+sCB = "cardback.jpg";   // cardback id
 
 function populateDeckAL(aCrds) {
 	for (var j=1;j<=22;j++) {
