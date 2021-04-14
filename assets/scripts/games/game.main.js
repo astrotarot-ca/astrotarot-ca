@@ -101,7 +101,7 @@ function pullNext(sGameId,sCardBack,sImgAlt) {
     $(oNewImg).attr({
         src: "https://medium.astrotarot.ca/"+sGameId+"/w300px/"+sCardBack,
         alt: sImgAlt,
-        class: "card img-fluid rounded"
+        class: "at_card img-fluid rounded"
     });
     dragElement(oNewImg);
     $("#mainGameBoard").append(oNewImg);

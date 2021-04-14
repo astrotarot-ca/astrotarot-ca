@@ -3,5 +3,6 @@ img.at_card {
 	cursor: move;
 	width:12%;
 	border: 1px black solid;
+
 	position: relative;
 }

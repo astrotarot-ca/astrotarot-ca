@@ -3,7 +3,7 @@ section.board {
 	height: auto;
 }
 
-img.card {
+img.at_card {
 	float: left;
 	cursor: move;
 	max-width:13%;
