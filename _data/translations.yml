@@ -151,3 +151,15 @@ index_group_cards_deck_inv:
 index_group_cards_deck_button:
   en: "Go to the playing cards deck!"
   fr: "Allez au jeu de cartes &agrave; jouer!"
+studio_ao_planets:
+  en: "Planets"
+  fr: "Plan&egrave;tes"
+studio_ao_constellations:
+  en: "Constellations"
+  fr: "Constellations"
+studio_ao_houses:
+  en: "Houses"
+  fr: "Maisons"
+studio_ao_aspects:
+  en: "Aspects"
+  fr: "Aspects"
