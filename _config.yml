@@ -50,3 +50,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - __refs/
+  - Gemfile
+  - LICENSE
+  - README.md
+
+
