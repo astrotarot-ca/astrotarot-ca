@@ -7,6 +7,7 @@ creator_link_title:
 creator_link_name:
   en: "creator"
   fr: "createur"
+
 license:
   en: "The open source web application <a href=\"https://github.com/esorobot-online/itheobot\">iTheobot</a> of the AstroTarot.ca project is managed by the MIT Licence. The following is the content of such license."
   fr: "L'application web &agrave; source ouverte <a href=\"https://github.com/esorobot-online/itheobot\">iTheobot</a> du projet AstroTarot.ca est r&eacute;gul&eacute;e par la MIT Licence. La licence en anglais suit ci-dessous."
@@ -16,6 +17,7 @@ license_link_title:
 license_link_name:
   en: "license"
   fr: "licence"
+
 open_source:
   en: "AstroTarot.ca is a website with its web application hosted on <a href=\"https://github.com/astrotarot-ca/itheobot\">GitHub.com</a>. This project is Open Source, meaning it is free and open source to any one who can code with some web development languages. It is also managed by the <a href=\"/en/license.html\">MIT License</a>&mdash;one of the most liberated software licences that exist on Earth."
   fr: "AstroTarot.ca est un site web h&eacute;berg&eacute; sur <a href=\"https://github.com/astrotarot-ca/itheobot\">GitHub.com</a>. C'est un projet &agrave; source ouverte pouvant &ecirc;tre modifi&eacute; librement et r&eacute;gul&eacute; par la <a href=\"/fr/licence.html\">MIT License</a>, l'une des licences les plus libres de la plan&egrave;te."
@@ -25,6 +27,7 @@ open_source_link_title:
 open_source_link_name:
   en: "open-source"
   fr: "source-ouverte"
+
 privacy:
   en: "This website doesn't use any cookies!"
   fr: "Ce site n'utilise aucun cookie!"
@@ -34,75 +37,264 @@ privacy_link_title:
 privacy_link_name:
   en: "privacy"
   fr: "vie-privee"
+
 deck_ao_name:
   en: "Zodiac Oracle"
   fr: "Oracle du Zodiac"
 deck_ao_intro:
   en: "Produced in house, the <b class=\"font-weight-bolder font-italic\">Zodiac Oracle deck</b> is a fresh new take on the zodiacal fortune telling. Pick one of each pile to get an answer for any question."
   fr: "Produit par le cr&eacute;ateur du site, le <b class=\"font-weight-bolder font-italic\">jeu d'oracle du Zodiac</b> est une nouvelle fa&ccedil;on de faire de la voyance avec le zodiac. Tirez une carte de chaque pile virtuelle pour avoir une r&eacute;ponse &agrave; vos questions."
+
+ao_game_title:
+  en: ""
+  fr: ""
+ao_game_def:
+  en: ""
+  fr: ""
+ao_game_pull1_btn:
+  en: ""
+  fr: ""
+ao_game_pull2_btn:
+  en: ""
+  fr: ""
+ao_game_pull3_btn:
+  en: ""
+  fr: ""
+ao_game_pres:
+  en: ""
+  fr: ""
+ao_game_note:
+  en: ""
+  fr: ""
+ao_game_open_btn:
+  en: ""
+  fr: ""
+
+zo_game_title:
+  en: ""
+  fr: ""
+zo_game_def:
+  en: ""
+  fr: ""
+zo_game_pull1_btn:
+  en: ""
+  fr: ""
+zo_game_pull2_btn:
+  en: ""
+  fr: ""
+zo_game_pull3_btn:
+  en: ""
+  fr: ""
+zo_game_pres:
+  en: ""
+  fr: ""
+zo_game_note:
+  en: ""
+  fr: ""
+zo_game_open_btn:
+  en: ""
+  fr: ""
+
+ogr_game_title:
+  en: ""
+  fr: ""
+ogr_game_def:
+  en: ""
+  fr: ""
+ogr_game_pull1_btn:
+  en: ""
+  fr: ""
+ogr_game_pull2_btn:
+  en: ""
+  fr: ""
+ogr_game_pull3_btn:
+  en: ""
+  fr: ""
+ogr_game_pres:
+  en: ""
+  fr: ""
+ogr_game_note:
+  en: ""
+  fr: ""
+ogr_game_open_btn:
+  en: ""
+  fr: ""
+
+ohe_game_title:
+  en: ""
+  fr: ""
+ohe_game_def:
+  en: ""
+  fr: ""
+ohe_game_pull1_btn:
+  en: ""
+  fr: ""
+ohe_game_pull2_btn:
+  en: ""
+  fr: ""
+ohe_game_pull3_btn:
+  en: ""
+  fr: ""
+ohe_game_pres:
+  en: ""
+  fr: ""
+ohe_game_note:
+  en: ""
+  fr: ""
+ohe_game_open_btn:
+  en: ""
+  fr: ""
+
+oru_game_title:
+  en: ""
+  fr: ""
+oru_game_def:
+  en: ""
+  fr: ""
+oru_game_pull1_btn:
+  en: ""
+  fr: ""
+oru_game_pull2_btn:
+  en: ""
+  fr: ""
+oru_game_pull3_btn:
+  en: ""
+  fr: ""
+oru_game_pres:
+  en: ""
+  fr: ""
+oru_game_note:
+  en: ""
+  fr: ""
+oru_game_open_btn:
+  en: ""
+  fr: ""
+
+rws_game_title:
+  en: ""
+  fr: ""
+rws_game_def:
+  en: ""
+  fr: ""
+rws_game_pull1_btn:
+  en: ""
+  fr: ""
+rws_game_pull2_btn:
+  en: ""
+  fr: ""
+rws_game_pull3_btn:
+  en: ""
+  fr: ""
+rws_game_pres:
+  en: ""
+  fr: ""
+rws_game_note:
+  en: ""
+  fr: ""
+rws_game_open_btn:
+  en: ""
+  fr: ""
+
+cbdtm_game_title:
+  en: ""
+  fr: ""
+cbdtm_game_def:
+  en: ""
+  fr: ""
+cbdtm_game_pull1_btn:
+  en: ""
+  fr: ""
+cbdtm_game_pull2_btn:
+  en: ""
+  fr: ""
+cbdtm_game_pull3_btn:
+  en: ""
+  fr: ""
+cbdtm_game_pres:
+  en: ""
+  fr: ""
+cbdtm_game_note:
+  en: ""
+  fr: ""
+cbdtm_game_open_btn:
+  en: ""
+  fr: ""
+
 deck_ohe_name:
   en: "Hebrew Ou&iuml;ja"
   fr: "Ou&iuml;ja Hebreu"
 deck_ohe_intro:
   en: "These Ouija boards are generally inspired by the Hebrew language. The <b class=\"font-weight-bolder font-italic\">Hebrew Alphabet</b> is the perfect alphabet for Ouija gaming. The Hebrew Ouija board can also be used for Kaballah study."
   fr: "Les planches de ou&iuml;ja sur ce site sont inspir&eacute;es de l'H&eacute;breu. L'<b class=\"font-weight-bolder font-italic\">alphabet H&eacute;bra&iuml;que</b> est parfait pour les jeux de ou&iuml;ja. La planche de ou&iuml;ja H&eacute;bra&iuml;que peut aussi &ecirc;tre utilis&eacute;e pour &eacute;tudier la Cabale juive."
+
 deck_ogr_name:
   en: "Greek Ou&iuml;ja"
   fr: "Ou&iuml;ja Grec"
 deck_ogr_intro:
   en: "The <b class=\"font-weight-bolder font-italic\">Greek Alphabet</b> is being presented here with only its consonants to ease the development of approximative words."
   fr: "Vous retrouverez seulement les consonnes dans ce jeu de l'<b class=\"font-weight-bolder font-italic\">alphabet Grec</b> pour faciliter l'apparition de mots approximatifs."
+
 deck_oru_name:
   en: "Russian Ou&iuml;ja"
   fr: "Ou&iuml;ja Russe"
 deck_oru_intro:
   en: "The <b class=\"font-weight-bolder font-italic\">Russian Alphabet</b> is being presented here with only its consonants to ease the development of approximative words."
   fr: "Vous retrouverez seulement les consonnes dans ce jeu de l'<b class=\"font-weight-bolder font-italic\">alphabet Russe</b> pour faciliter l'apparition de mots approximatifs."
+
 deck_pc_name:
   en: "Playing Cards Oracle"
   fr: "Oracle de jeu de cartes"
 deck_pc_intro:
   en: "Popular in the western world, the <b class=\"font-weight-bolder font-italic\">French game cards</b> are being presented here for those who like to use them as a minor arcana only deck."
   fr: "Populaire en Occident, le <b class=\"font-weight-bolder font-italic\">jeu de cartes Fran&ccedil;ais</b> est pr&eacute;sent&eacute; ici pour ceux et celles qui aime utiliser ce jeu comme arcane mineure seulement."
+
 deck_rws_name:
   en: "Rider-Waite-Smith Tarot"
   fr: "Tarot Rider-Waite-Smith"
 deck_rws_intro:
   en: "Used for the last 100 years, the <b class=\"font-weight-bolder font-italic\">Rider-Waite-Smith tarot deck</b> is the most popular deck of the english school of esoterism."
   fr: "Utilis&eacute; les 100 derni&egrave;res ann&eacute;es, le <b class=\"font-weight-bolder font-italic\">jeu de tarot Rider-Waite-Smith</b> est le jeu de tarot le plus populaire de l'&eacute;cole d'&eacute;sot&eacute;risme Anglaise."
+
 deck_tm_name:
   en: "CBD Tarot de Marseille"
   fr: "CBD Tarot de Marseille"
 deck_tm_intro:
   en: "Restored line by line from an historical deck, the <b class=\"font-weight-bolder font-italic\">CBD Tarot de Marseille deck</b> is a modern take to the original tarot deck."
   fr: "Reproduit ligne par ligne d'une version historique originale, le <b class=\"font-weight-bolder font-italic\">jeu CBD Tarot de Marseille</b> est une version moderne du jeu de tarot originale Europ&eacute;en."
+
 game_inv:
   en: "Go to deck"
   fr: "Allez au jeu"
+
 page_oracle_title:
   en: "Oracle Decks"
   fr: "Jeux d'oracle"
 page_oracle_intro:
   en: "Below you will find the most fun way to draw cards for fortune telling. Visit one of the decks to draw some cards from the virtual pile and spread them to your favourite layout."
   fr: "Vous trouverez ci-dessous deux moyens amusants de tirer des cartes pour la voyance. Visitez un des deux jeux pour tirer des cartes de la pile virtuelle et les &eacute;taler selon vos dispositions pr&eacute;f&eacute;r&eacute;es."
+
 page_tarot_title:
   en: "Tarot Decks"
   fr: "Jeux de tarot"
 page_tarot_intro:
   en: "Below you will find the most popular tarot decks in the world. Visit one of the decks to draw some cards from the virtual pile and spread them to your favourite layout."
   fr: "VOus trouverez ci-dessous deux des jeux de tarot les plus populaires du monde. Visitez l'un des jeux pour tirer des cartes de la pile virtuelle et les disposer selon vos go&ucirc;t."
+
 page_ouija_title:
   en: "Ou&iuml;ja Boards"
   fr: "Jeux de ou&iuml;ja"
 page_ouija_intro:
   en: "Below you will find the most fun way to pull cards for ouija gaming and language learning. Ouija was used 1000 years ago in China and that is only from what is known from historical litterature. In its form, the Ouija board presents one of the oldest forms of communication with the spiritual world and the mystical realm of necromancy. Visit one of the boards to draw some cards from the shuffled virtual pile and discover what it has to say."
   fr: "Vous trouverez ci-dessous des jeux de cartes pour jouer au ou&iuml;ja virtuel, et voir m&ecirc;me, apprendre l'alphabet de ces langues. Les Chinois utilisaient le ou&iuml;ja il y a mille ans et la litt/rature historique en fait peu mention. Le concept du ou&iuml;ja permet de communiquer avec le monde spirituel et le domaine mystique de la n&eacute;cromancie. Visitez une des planches ci-dessous pour tirer des cartes de la pile virtuelle et d&eacute;couvrir ce qu'il vous communiquera."
+
 page_home_title:
   en: "Home"
   fr: "Accueil"
+
 group_about_title:
   en: "About"
   fr: "&Agrave; propos"
+
 index_group_tarot_decks:
   en: "Tarot Decks"
   fr: "Jeux de tarot"
@@ -115,6 +307,7 @@ index_group_tarot_deck_inv:
 index_group_tarot_deck_button:
   en: "Go to the tarot decks!"
   fr: "Allez aux jeux de tarot!"
+
 index_group_oracle_game:
   en: "Zodiac Oracle Deck"
   fr: "Jeu d'oracle du Zodiac"
@@ -127,6 +320,7 @@ index_group_oracle_game_inv:
 index_group_oracle_game_button:
   en: "Go to the zodiac oracle deck!"
   fr: "Allez au jeu d'oracle du Zodiac!"
+
 index_group_ouija_boards:
   en: "Ou&iuml;ja Boards"
   fr: "Jeux de Ou&iuml;ja"
@@ -139,6 +333,7 @@ index_group_ouija_boards_inv:
 index_group_ouija_boards_button:
   en: "Go to the ouija boards!"
   fr: "Allez aux jeux de Ou&iuml;ja!"
+
 index_group_cards_deck:
   en: "Playing Cards Deck"
   fr: "Jeu de cartes &agrave; jouer"
@@ -151,6 +346,7 @@ index_group_cards_deck_inv:
 index_group_cards_deck_button:
   en: "Go to the playing cards deck!"
   fr: "Allez au jeu de cartes &agrave; jouer!"
+
 studio_ao_planets:
   en: "Planets"
   fr: "Plan&egrave;tes"
@@ -163,6 +359,7 @@ studio_ao_houses:
 studio_ao_aspects:
   en: "Aspects"
   fr: "Aspects"
+
 studio_rws_majarc:
   en: "Major Arcana"
   fr: "Arcane majeure"
@@ -178,6 +375,7 @@ studio_rws_minarc_wands:
 studio_rws_minarc_pentacles:
   en: "Minor Arcana &mdash; Pentacles"
   fr: "Arcane mineure &mdash; Deniers"
+
 studio_cbdtm_majarc:
   en: "Major Arcana"
   fr: "Arcane majeure"
@@ -193,6 +391,7 @@ studio_cbdtm_minarc_batons:
 studio_cbdtm_minarc_deniers:
   en: "Minor Arcana &mdash; Deniers"
   fr: "Arcane mineure &mdash; Deniers"
+
 studio_ssq_name:
   en: "Thoth Playing Cards (Neutral)"
   fr: "Jeux de cartes Thoth (Neutre)"
@@ -208,6 +407,7 @@ studio_ssq_minarc_clubs:
 studio_ssq_minarc_diamonds:
   en: "Minor Arcana &mdash; Diamonds (Pentacles)"
   fr: "Arcane mineure &mdash; Carreaux (Deniers)"
+
 studio_ssq2_name:
   en: "Thoth Playing Cards (Vulgar)"
   fr: "Jeux de cartes Thoth (Vulgaire)"
