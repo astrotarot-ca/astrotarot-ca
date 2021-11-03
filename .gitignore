@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 __refs/*
 _data/medium.astrotarot.ca.yml
+workspace.code-workspace
