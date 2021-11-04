@@ -1,3 +1,5 @@
+## footer.html
+
 creator:
   en: "Serafim Dos Santos is the creator of <a href=\"https://github.com/astrotarot-ca/itheobot\">iTheobot</a> and he is the maintainer of <a href=\"https://astrotarot.ca\">https://astrotarot.ca</a>. You can contact him through the <a href=\"https://github.com/astrotarot-ca/itheobot/issues\">issues</a> section of GitHub's iTheobot repository. iTheobot uses some JavaScript libraries that are included with their own licences. iTheobot makes extensive usage of some images that are not the creator's creation but are either of Public Domain or are Creative Common content."
   fr: "Serafim Dos Santos est le cr&eacute;ateur de <a href=\"https://github.com/astrotarot-ca/itheobot\">iTheobot</a> et est le mainteneur de <a href=\"https://astrotarot.ca\">https://astrotarot.ca</a>. Vous pouvez le contacter <a href=\"https://github.com/astrotarot-ca/itheobot/issues\">sur GitHub</a>. iTheobot utilise des librairies accompagn&eacute;es de leurs propres licences. iTheobot utilise des images non-propri&eacute;taires au projet, mais qui sont du domaine publique ou sous licences Creative Commons."
@@ -38,6 +40,8 @@ privacy_link_name:
   en: "privacy"
   fr: "vie-privee"
 
+## 
+
 deck_ao_name:
   en: "Zodiac Oracle"
   fr: "Oracle du Zodiac"
@@ -45,7 +49,9 @@ deck_ao_intro:
   en: "Produced in house, the <b class=\"font-weight-bolder font-italic\">Zodiac Oracle deck</b> is a fresh new take on the zodiacal fortune telling. Pick one of each pile to get an answer for any question."
   fr: "Produit par le cr&eacute;ateur du site, le <b class=\"font-weight-bolder font-italic\">jeu d'oracle du Zodiac</b> est une nouvelle fa&ccedil;on de faire de la voyance avec le zodiac. Tirez une carte de chaque pile virtuelle pour avoir une r&eacute;ponse &agrave; vos questions."
 
-ao_game_title:
+##
+
+game_ao_game_title:
   en: ""
   fr: ""
 ao_game_def:
@@ -95,7 +101,7 @@ zo_game_open_btn:
   en: ""
   fr: ""
 
-ogr_game_title:
+game_ouija_gr_title:
   en: ""
   fr: ""
 ogr_game_def:
