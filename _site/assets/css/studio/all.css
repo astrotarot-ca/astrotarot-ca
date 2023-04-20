@@ -1,0 +1,7 @@
+img.at_card {
+	margin: 1%;
+	cursor: move;
+	width:5%;
+	border: 1px black solid;
+	position: relative;
+}
