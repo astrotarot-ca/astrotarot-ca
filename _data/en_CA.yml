@@ -1,0 +1,178 @@
+# todo #15 translate in spanish
+# todo #16 translate in portuguese
+# todo #7 mettre de l'ordre dans la traduction
+
+## footer.html
+
+creator: "Serafim Dos Santos is the creator of <a href=\"https://github.com/astrotarot-ca/itheobot\">iTheobot</a> and he is the maintainer of <a href=\"https://astrotarot.ca\">https://astrotarot.ca</a>. You can contact him through the <a href=\"https://github.com/astrotarot-ca/itheobot/issues\">issues</a> section of GitHub's iTheobot repository. iTheobot uses some JavaScript libraries that are included with their own licences. iTheobot makes extensive usage of some images that are not the creator's creation but are either of Public Domain or are Creative Common content."
+creator_link_title: "Creator"
+creator_link_name: "creator"
+
+license: "The open source web application <a href=\"https://github.com/esorobot-online/itheobot\">iTheobot</a> of the AstroTarot.ca project is managed by the MIT Licence. The following is the content of such license."
+license_link_title: "License"
+license_link_name: "license"
+
+open_source: "AstroTarot.ca is a website with its web application hosted on <a href=\"https://github.com/astrotarot-ca/itheobot\">GitHub.com</a>. This project is Open Source, meaning it is free and open source to any one who can code with some web development languages. It is also managed by the <a href=\"/en/license.html\">MIT License</a>&mdash;one of the most liberated software licences that exist on Earth."
+open_source_link_title: "Open Source"
+open_source_link_name: "open-source"
+
+privacy: "This website doesn't use any cookies!"
+privacy_link_title: "Privacy"
+privacy_link_name: "privacy"
+
+##
+
+deck_ao_name: "Zodiac Oracle"
+deck_ao_intro: "Produced in house, the <b class=\"font-weight-bolder font-italic\">Zodiac Oracle deck</b> is a fresh new take on the zodiacal fortune telling. Pick one of each pile to get an answer for any question."
+
+##
+
+game_ao_game_title: ""
+ao_game_def: ""
+ao_game_pull1_btn: ""
+ao_game_pull2_btn: ""
+ao_game_pull3_btn: ""
+ao_game_pres: ""
+ao_game_note: ""
+ao_game_open_btn: ""
+
+zo_game_title: ""
+zo_game_def: ""
+zo_game_pull1_btn: ""
+zo_game_pull2_btn: ""
+zo_game_pull3_btn: ""
+zo_game_pres: ""
+zo_game_note: ""
+zo_game_open_btn: ""
+
+game_ouija_gr_title: ""
+ogr_game_def: ""
+ogr_game_pull1_btn: ""
+ogr_game_pull2_btn: ""
+ogr_game_pull3_btn: ""
+ogr_game_pres: ""
+ogr_game_note: ""
+ogr_game_open_btn: ""
+
+ohe_game_title: ""
+ohe_game_def: ""
+ohe_game_pull1_btn: ""
+ohe_game_pull2_btn: ""
+ohe_game_pull3_btn: ""
+ohe_game_pres: ""
+ohe_game_note: ""
+ohe_game_open_btn: ""
+
+oru_game_title: ""
+oru_game_def: ""
+oru_game_pull1_btn: ""
+oru_game_pull2_btn: ""
+oru_game_pull3_btn: ""
+oru_game_pres: ""
+oru_game_note: ""
+oru_game_open_btn: ""
+
+rws_game_title: ""
+rws_game_def: ""
+rws_game_pull1_btn: ""
+rws_game_pull2_btn: ""
+rws_game_pull3_btn: ""
+rws_game_pres: ""
+rws_game_note: ""
+rws_game_open_btn: ""
+
+cbdtm_game_title: ""
+cbdtm_game_def: ""
+cbdtm_game_pull1_btn: ""
+cbdtm_game_pull2_btn: ""
+cbdtm_game_pull3_btn: ""
+cbdtm_game_pres: ""
+cbdtm_game_note: ""
+cbdtm_game_open_btn: ""
+
+deck_ohe_name: "Hebrew Ou&iuml;ja"
+deck_ohe_intro: "These Ouija boards are generally inspired by the Hebrew language. The <b class=\"font-weight-bolder font-italic\">Hebrew Alphabet</b> is the perfect alphabet for Ouija gaming. The Hebrew Ouija board can also be used for Kaballah study."
+
+deck_ogr_name: "Greek Ou&iuml;ja"
+deck_ogr_intro: "The <b class=\"font-weight-bolder font-italic\">Greek Alphabet</b> is being presented here with only its consonants to ease the development of approximative words."
+
+deck_oru_name: "Russian Ou&iuml;ja"
+deck_oru_intro: "The <b class=\"font-weight-bolder font-italic\">Russian Alphabet</b> is being presented here with only its consonants to ease the development of approximative words."
+
+deck_pc_name: "Playing Cards Oracle"
+deck_pc_intro: "Popular in the western world, the <b class=\"font-weight-bolder font-italic\">French game cards</b> are being presented here for those who like to use them as a minor arcana only deck."
+
+deck_rws_name: "Rider-Waite-Smith Tarot"
+deck_rws_intro: "Used for the last 100 years, the <b class=\"font-weight-bolder font-italic\">Rider-Waite-Smith tarot deck</b> is the most popular deck of the english school of esoterism."
+
+deck_tm_name: "CBD Tarot de Marseille"
+deck_tm_intro: "Restored line by line from an historical deck, the <b class=\"font-weight-bolder font-italic\">CBD Tarot de Marseille deck</b> is a modern take to the original tarot deck."
+
+game_inv: "Go to deck"
+
+page_oracle_title: "Oracle Decks"
+page_oracle_intro: "Below you will find the most fun way to draw cards for fortune telling. Visit one of the decks to draw some cards from the virtual pile and spread them to your favourite layout."
+
+page_tarot_title: "Tarot Decks"
+page_tarot_intro: "Below you will find the most popular tarot decks in the world. Visit one of the decks to draw some cards from the virtual pile and spread them to your favourite layout."
+
+page_ouija_title: "Ou&iuml;ja Boards"
+page_ouija_intro: "Below you will find the most fun way to pull cards for ouija gaming and language learning. Ouija was used 1000 years ago in China and that is only from what is known from historical litterature. In its form, the Ouija board presents one of the oldest forms of communication with the spiritual world and the mystical realm of necromancy. Visit one of the boards to draw some cards from the shuffled virtual pile and discover what it has to say."
+
+page_home_title: "Home"
+
+group_about_title: "About"
+
+## index
+
+index_group_tarot_decks: "Tarot Decks"
+index_group_tarot_deck_def: "Here you find the most popular tarot decks for fortune reading or any other form of scenario revelation. Usually available in suites and arcana sections, you'll be able to draw cards within the available selections and place them in your favourite spread."
+index_group_tarot_deck_inv: "Pull cards from your favourite decks and place them in your favourite spreads for divination and fortune telling!"
+index_group_tarot_deck_button: "Go to the tarot decks!"
+
+index_group_oracle_game: "Zodiac Oracle Deck"
+index_group_oracle_game_def: "Here you find the best zodiacal oracle deck! Split into Planets, Constellations and Houses, one pulls one card of each to read the fortune it presents in plain english."
+index_group_oracle_game_inv: "Pull one planet card, one constellation card and one house card to reveal your astrological fortune!"
+index_group_oracle_game_button: "Go to the zodiac oracle deck!"
+
+index_group_ouija_boards: "Ou&iuml;ja Boards"
+index_group_ouija_boards_def: "Here you find the most popular alphabets to play ouija. The boards are available with only consonant letters so words can be approximatively created with the voyels being left at the discretion of the reader."
+index_group_ouija_boards_inv: "Pull consonant letters from your favourite board to create approximative words and have mystical answers to your questions!"
+index_group_ouija_boards_button: "Go to the ouija boards!"
+
+index_group_cards_deck: "Playing Cards Deck"
+index_group_cards_deck_def: "Here you find the most popular table game in the world! Similar to the minor arcana of any tarot deck, you can use the deck for divination and fortune telling."
+index_group_cards_deck_inv: "Pull cards to fortell your future as you would with a tarot minor arcana!"
+index_group_cards_deck_button: "Go to the playing cards deck!"
+
+## studio
+
+studio_ao_planets: "Planets"
+studio_ao_constellations: "Constellations"
+studio_ao_houses: "Houses"
+studio_ao_aspects: "Aspects"
+
+
+studio_cbdtm_majarc: "Major Arcana"
+studio_cbdtm_minarc_epees: "Minor Arcana &mdash; &Eacute;p&eacute;es"
+studio_cbdtm_minarc_coupes: "Minor Arcana &mdash; Coupes"
+studio_cbdtm_minarc_batons: "Minor Arcana &mdash; B&acirc;tons"
+studio_cbdtm_minarc_deniers: "Minor Arcana &mdash; Deniers"
+
+studio_rws_majarc: "Major Arcana"
+studio_rws_minarc_swords: "Minor Arcana &mdash; Swords"
+studio_rws_minarc_cups: "Minor Arcana &mdash; Cups"
+studio_rws_minarc_wands: "Minor Arcana &mdash; Wands"
+studio_rws_minarc_pentacles: "Minor Arcana &mdash; Pentacles"
+
+studio_ssq2_name: "Thoth Playing Cards (Vulgar)"
+studio_ssq2_minarc_spades: "Minor Arcana &mdash; Spades (Swords)"
+studio_ssq2_minarc_hearts: "Minor Arcana &mdash; Hearts (Cups)"
+studio_ssq2_minarc_clubs: "Minor Arcana &mdash; Clubs (Wands)"
+studio_ssq2_minarc_diamonds: "Minor Arcana &mdash; Diamonds (Pentacles)"
+
+studio_ssq_name: "Thoth Playing Cards (Neutral)"
+studio_ssq_minarc_spades: "Minor Arcana &mdash; Spades (Swords)"
+studio_ssq_minarc_hearts: "Minor Arcana &mdash; Hearts (Cups)"
+studio_ssq_minarc_clubs: "Minor Arcana &mdash; Clubs (Wands)"
+studio_ssq_minarc_diamonds: "Minor Arcana &mdash; Diamonds (Pentacles)"

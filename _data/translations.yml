@@ -1,3 +1,7 @@
+# todo #15 translate in spanish
+# todo #16 translate in portuguese
+# todo #7 mettre de l'ordre dans la traduction
+
 ## footer.html
 
 creator:
@@ -301,6 +305,8 @@ group_about_title:
   en: "About"
   fr: "&Agrave; propos"
 
+## index
+
 index_group_tarot_decks:
   en: "Tarot Decks"
   fr: "Jeux de tarot"
@@ -353,6 +359,8 @@ index_group_cards_deck_button:
   en: "Go to the playing cards deck!"
   fr: "Allez au jeu de cartes &agrave; jouer!"
 
+## studio
+
 studio_ao_planets:
   en: "Planets"
   fr: "Plan&egrave;tes"
@@ -366,21 +374,6 @@ studio_ao_aspects:
   en: "Aspects"
   fr: "Aspects"
 
-studio_rws_majarc:
-  en: "Major Arcana"
-  fr: "Arcane majeure"
-studio_rws_minarc_swords:
-  en: "Minor Arcana &mdash; Swords"
-  fr: "Arcane mineure &mdash; &Eacute;p&eacute;es"
-studio_rws_minarc_cups:
-  en: "Minor Arcana &mdash; Cups"
-  fr: "Arcane mineure &mdash; Coupes"
-studio_rws_minarc_wands:
-  en: "Minor Arcana &mdash; Wands"
-  fr: "Arcane mineure &mdash; B&acirc;tons"
-studio_rws_minarc_pentacles:
-  en: "Minor Arcana &mdash; Pentacles"
-  fr: "Arcane mineure &mdash; Deniers"
 
 studio_cbdtm_majarc:
   en: "Major Arcana"
@@ -398,21 +391,21 @@ studio_cbdtm_minarc_deniers:
   en: "Minor Arcana &mdash; Deniers"
   fr: "Arcane mineure &mdash; Deniers"
 
-studio_ssq_name:
-  en: "Thoth Playing Cards (Neutral)"
-  fr: "Jeux de cartes Thoth (Neutre)"
-studio_ssq_minarc_spades:
-  en: "Minor Arcana &mdash; Spades (Swords)"
-  fr: "Arcane mineure &mdash; Piques (&Eacute;p&eacute;es)"
-studio_ssq_minarc_hearts:
-  en: "Minor Arcana &mdash; Hearts (Cups)"
-  fr: "Arcane mineure &mdash; Coeurs (Coupes)"
-studio_ssq_minarc_clubs:
-  en: "Minor Arcana &mdash; Clubs (Wands)"
-  fr: "Arcane mineure &mdash; Tr&egrave;fles (B&acirc;tons)"
-studio_ssq_minarc_diamonds:
-  en: "Minor Arcana &mdash; Diamonds (Pentacles)"
-  fr: "Arcane mineure &mdash; Carreaux (Deniers)"
+studio_rws_majarc:
+  en: "Major Arcana"
+  fr: "Arcane majeure"
+studio_rws_minarc_swords:
+  en: "Minor Arcana &mdash; Swords"
+  fr: "Arcane mineure &mdash; &Eacute;p&eacute;es"
+studio_rws_minarc_cups:
+  en: "Minor Arcana &mdash; Cups"
+  fr: "Arcane mineure &mdash; Coupes"
+studio_rws_minarc_wands:
+  en: "Minor Arcana &mdash; Wands"
+  fr: "Arcane mineure &mdash; B&acirc;tons"
+studio_rws_minarc_pentacles:
+  en: "Minor Arcana &mdash; Pentacles"
+  fr: "Arcane mineure &mdash; Deniers"
 
 studio_ssq2_name:
   en: "Thoth Playing Cards (Vulgar)"
@@ -427,5 +420,21 @@ studio_ssq2_minarc_clubs:
   en: "Minor Arcana &mdash; Clubs (Wands)"
   fr: "Arcane mineure &mdash; Tr&egrave;fles (B&acirc;tons)"
 studio_ssq2_minarc_diamonds:
+  en: "Minor Arcana &mdash; Diamonds (Pentacles)"
+  fr: "Arcane mineure &mdash; Carreaux (Deniers)"
+
+studio_ssq_name:
+  en: "Thoth Playing Cards (Neutral)"
+  fr: "Jeux de cartes Thoth (Neutre)"
+studio_ssq_minarc_spades:
+  en: "Minor Arcana &mdash; Spades (Swords)"
+  fr: "Arcane mineure &mdash; Piques (&Eacute;p&eacute;es)"
+studio_ssq_minarc_hearts:
+  en: "Minor Arcana &mdash; Hearts (Cups)"
+  fr: "Arcane mineure &mdash; Coeurs (Coupes)"
+studio_ssq_minarc_clubs:
+  en: "Minor Arcana &mdash; Clubs (Wands)"
+  fr: "Arcane mineure &mdash; Tr&egrave;fles (B&acirc;tons)"
+studio_ssq_minarc_diamonds:
   en: "Minor Arcana &mdash; Diamonds (Pentacles)"
   fr: "Arcane mineure &mdash; Carreaux (Deniers)"
