@@ -1,0 +1,176 @@
+# todo #16 translate in portuguese
+
+## footer.html
+
+creator: ""
+creator_link_title: ""
+creator_link_name: ""
+
+license: ""
+license_link_title: ""
+license_link_name: ""
+
+open_source: ""
+open_source_link_title: ""
+open_source_link_name: ""
+
+privacy: ""
+privacy_link_title: ""
+privacy_link_name: ""
+
+##
+
+deck_ao_name: ""
+deck_ao_intro: ""
+
+##
+
+game_ao_game_title: ""
+ao_game_def: ""
+ao_game_pull1_btn: ""
+ao_game_pull2_btn: ""
+ao_game_pull3_btn: ""
+ao_game_pres: ""
+ao_game_note: ""
+ao_game_open_btn: ""
+
+zo_game_title: ""
+zo_game_def: ""
+zo_game_pull1_btn: ""
+zo_game_pull2_btn: ""
+zo_game_pull3_btn: ""
+zo_game_pres: ""
+zo_game_note: ""
+zo_game_open_btn: ""
+
+game_ouija_gr_title: ""
+ogr_game_def: ""
+ogr_game_pull1_btn: ""
+ogr_game_pull2_btn: ""
+ogr_game_pull3_btn: ""
+ogr_game_pres: ""
+ogr_game_note: ""
+ogr_game_open_btn: ""
+
+ohe_game_title: ""
+ohe_game_def: ""
+ohe_game_pull1_btn: ""
+ohe_game_pull2_btn: ""
+ohe_game_pull3_btn: ""
+ohe_game_pres: ""
+ohe_game_note: ""
+ohe_game_open_btn: ""
+
+oru_game_title: ""
+oru_game_def: ""
+oru_game_pull1_btn: ""
+oru_game_pull2_btn: ""
+oru_game_pull3_btn: ""
+oru_game_pres: ""
+oru_game_note: ""
+oru_game_open_btn: ""
+
+rws_game_title: ""
+rws_game_def: ""
+rws_game_pull1_btn: ""
+rws_game_pull2_btn: ""
+rws_game_pull3_btn: ""
+rws_game_pres: ""
+rws_game_note: ""
+rws_game_open_btn: ""
+
+cbdtm_game_title: ""
+cbdtm_game_def: ""
+cbdtm_game_pull1_btn: ""
+cbdtm_game_pull2_btn: ""
+cbdtm_game_pull3_btn: ""
+cbdtm_game_pres: ""
+cbdtm_game_note: ""
+cbdtm_game_open_btn: ""
+
+deck_ohe_name: ""
+deck_ohe_intro: ""
+
+deck_ogr_name: ""
+deck_ogr_intro: ""
+
+deck_oru_name: ""
+deck_oru_intro: ""
+
+deck_pc_name: ""
+deck_pc_intro: ""
+
+deck_rws_name: ""
+deck_rws_intro: ""
+
+deck_tm_name: ""
+deck_tm_intro: ""
+
+game_inv: ""
+
+page_oracle_title: ""
+page_oracle_intro: ""
+
+page_tarot_title: ""
+page_tarot_intro: ""
+
+page_ouija_title: ""
+page_ouija_intro: ""
+
+page_home_title: ""
+
+group_about_title: ""
+
+## index
+
+index_group_tarot_decks: ""
+index_group_tarot_deck_def: ""
+index_group_tarot_deck_inv: ""
+index_group_tarot_deck_button: ""
+
+index_group_oracle_game: ""
+index_group_oracle_game_def: ""
+index_group_oracle_game_inv: ""
+index_group_oracle_game_button: ""
+
+index_group_ouija_boards: ""
+index_group_ouija_boards_def: ""
+index_group_ouija_boards_inv: ""
+index_group_ouija_boards_button: ""
+
+index_group_cards_deck: ""
+index_group_cards_deck_def: ""
+index_group_cards_deck_inv: ""
+index_group_cards_deck_button: ""
+
+## studio
+
+studio_ao_planets: ""
+studio_ao_constellations: ""
+studio_ao_houses: ""
+studio_ao_aspects: ""
+
+
+studio_cbdtm_majarc: ""
+studio_cbdtm_minarc_epees: ""
+studio_cbdtm_minarc_coupes: ""
+studio_cbdtm_minarc_batons: ""
+studio_cbdtm_minarc_deniers: ""
+
+studio_rws_majarc: ""
+studio_rws_minarc_swords: ""
+studio_rws_minarc_cups: ""
+studio_rws_minarc_wands: ""
+studio_rws_minarc_pentacles: ""
+
+studio_ssq2_name: ""
+studio_ssq2_minarc_spades: ""
+studio_ssq2_minarc_hearts: ""
+studio_ssq2_minarc_clubs: ""
+studio_ssq2_minarc_diamonds: ""
+
+studio_ssq_name: ""
+studio_ssq_minarc_spades: ""
+studio_ssq_minarc_hearts: ""
+studio_ssq_minarc_clubs: ""
+studio_ssq_minarc_diamonds: ""
