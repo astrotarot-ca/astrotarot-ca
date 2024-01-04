@@ -7,34 +7,34 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/{{ page.lang }}/index.html">{{ site.data.translations['page_home_title'] }}</a>
+                <a class="nav-link" href="/{{ page.lang }}/index.html">{{ site.data.locale.[page.lang]['page_home_title'] }}</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="/{{ page.lang }}/tarot/main.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    {{ site.data.translations['page_tarot_title'] }}
+                    {{ site.data.locale.[page.lang]['page_tarot_title'] }}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="/{{ page.lang }}/tarot/rws/main.html">{{ site.data.translations['deck_rws_name'] }}</a>
-                <a class="dropdown-item" href="/{{ page.lang }}/tarot/cbdtm/main.html">{{ site.data.translations['deck_tm_name'] }}</a>
+                <a class="dropdown-item" href="/{{ page.lang }}/tarot/rws/main.html">{{ site.data.locale.[page.lang]['deck_rws_name'] }}</a>
+                <a class="dropdown-item" href="/{{ page.lang }}/tarot/cbdtm/main.html">{{ site.data.locale.[page.lang]['deck_tm_name'] }}</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="/{{ page.lang }}/oracle/main.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    {{ site.data.translations['page_oracle_title'] }}
+                    {{ site.data.locale.[page.lang]['page_oracle_title'] }}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="/{{ page.lang }}/oracle/go/main.html">{{ site.data.translations['deck_pc_name'] }}</a>
-                <a class="dropdown-item" href="/{{ page.lang }}/oracle/zo/main.html">{{ site.data.translations['deck_ao_name'] }}</a>
+                <a class="dropdown-item" href="/{{ page.lang }}/oracle/go/main.html">{{ site.data.locale.[page.lang]['deck_pc_name'] }}</a>
+                <a class="dropdown-item" href="/{{ page.lang }}/oracle/zo/main.html">{{ site.data.locale.[page.lang]['deck_ao_name'] }}</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="/{{ page.lang }}/ouija/main.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    {{ site.data.translations['page_ouija_title'] }}
+                    {{ site.data.locale.[page.lang]['page_ouija_title'] }}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="/{{ page.lang }}/ouija/gb/main.html">{{ site.data.translations['deck_ogr_name'] }}</a>
-                    <a class="dropdown-item" href="/{{ page.lang }}/ouija/hb/main.html">{{ site.data.translations['deck_ohe_name'] }}</a>
-                    <a class="dropdown-item" href="/{{ page.lang }}/ouija/rb/main.html">{{ site.data.translations['deck_oru_name'] }}</a>
+                    <a class="dropdown-item" href="/{{ page.lang }}/ouija/gb/main.html">{{ site.data.locale.[page.lang]['deck_ogr_name'] }}</a>
+                    <a class="dropdown-item" href="/{{ page.lang }}/ouija/hb/main.html">{{ site.data.locale.[page.lang]['deck_ohe_name'] }}</a>
+                    <a class="dropdown-item" href="/{{ page.lang }}/ouija/rb/main.html">{{ site.data.locale.[page.lang]['deck_oru_name'] }}</a>
                 </div>
             </li>
             <li class="nav-item">
