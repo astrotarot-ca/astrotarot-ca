@@ -1,29 +1,29 @@
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="/{{ page.lang }}/index.html">{{ site.data.translations['page_home_title'] }}</a></li>
+      <li class="breadcrumb-item"><a href="/{{ page.lang }}/index.html">{{ site.data.locale.[page.lang]['page_home_title'] }}</a></li>
       <li class="breadcrumb-item active" aria-current="page">Studio</li>
     </ol>
   </nav>
 
   <div class="jumbotron">
-    <h1 class="display-4">{{ site.data.translations['page_oracle_title'] }}</h1>
+    <h1 class="display-4">{{ site.data.locale.[page.lang]['page_oracle_title'] }}</h1>
     <ul>
       {% if page.lang == "en" %}
       <li><a href="/{{ page.lang }}/studio/aotut.html">Astroracle (en)</a></li>
       {% else %}
       <li><a href="/{{ page.lang }}/studio/aotut.html">Astroracle (fr)</a></li>
       {% endif %}
-      <li><a href="/{{ page.lang }}/studio/ssqtut.html">{{ site.data.translations['studio_ssq_name'] }}</a></li>
+      <li><a href="/{{ page.lang }}/studio/ssqtut.html">{{ site.data.locale.[page.lang]['studio_ssq_name'] }}</a></li>
       {% if page.lang == "en" %}
-      <li><a href="/{{ page.lang }}/studio/ssq2tut.html">{{ site.data.translations['studio_ssq2_name'] }}</a></li>
+      <li><a href="/{{ page.lang }}/studio/ssq2tut.html">{{ site.data.locale.[page.lang]['studio_ssq2_name'] }}</a></li>
       {% endif %}
     </ul>
   </div>
 
   <div class="jumbotron">
-    <h1 class="display-4">{{ site.data.translations['page_tarot_title'] }}</h1>
+    <h1 class="display-4">{{ site.data.locale.[page.lang]['page_tarot_title'] }}</h1>
     <ul>
-      <li><a href="/{{ page.lang }}/studio/rwstut.html">{{ site.data.translations['deck_rws_name'] }}</a></li>
-      <li><a href="/{{ page.lang }}/studio/cbdtmtut.html">{{ site.data.translations['deck_tm_name'] }}</a></li>
+      <li><a href="/{{ page.lang }}/studio/rwstut.html">{{ site.data.locale.[page.lang]['deck_rws_name'] }}</a></li>
+      <li><a href="/{{ page.lang }}/studio/cbdtmtut.html">{{ site.data.locale.[page.lang]['deck_tm_name'] }}</a></li>
     </ul>
   </div>
